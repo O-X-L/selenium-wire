@@ -10,9 +10,7 @@ Minor bug and features will not be checked/implemented because we lack resources
 
 **INSTALL**:
 
-```
-pip install git+https://github.com/O-X-L/selenium-wire@master
-```
+`pip install git+https://github.com/O-X-L/selenium-wire@master`
 
 
 Selenium Wire
