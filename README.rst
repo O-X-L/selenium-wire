@@ -1,4 +1,19 @@
-**Selenium Wire is no longer being maintained. Thank you for your support and all your contributions.**
+OXL Fork
+========
+
+This is a fork of the deprecated [wkeeling/selenium-wire](https://github.com/wkeeling/selenium-wire)!
+
+We will only fix major issue that hinder execution.
+
+Minor bug and features will not be checked/implemented because we lack resources.
+
+
+**INSTALL**:
+
+```
+pip install git+https://github.com/O-X-L/selenium-wire@master
+```
+
 
 Selenium Wire
 =============
