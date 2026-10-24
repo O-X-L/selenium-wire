@@ -1,7 +1,7 @@
 OXL Fork
 ========
 
-This is a fork of the deprecated [wkeeling/selenium-wire](https://github.com/wkeeling/selenium-wire)!
+This is a fork of the deprecated `wkeeling/selenium-wire <https://github.com/wkeeling/selenium-wire>`_!
 
 We will only fix major issue that hinder execution.
 
